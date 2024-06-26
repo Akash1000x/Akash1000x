@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **kumawatap63@gmail.com**
 
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Akash1000x)](https://github.com/Akash1000x)
+
 ## 🌐 Socials:
 
 <p align="left">
