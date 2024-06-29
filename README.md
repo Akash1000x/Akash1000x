@@ -2,15 +2,11 @@
 <h2 align="center">A passionate Full-Stack Developer from India</h2>
 <br>
 
-- 🔭 I’m currently working on **Full-Stack Developement**
-
 - 🌱 I’m currently learning **Blockchain Technology**
 
 - 👯 I’m looking to collaborate on **Full-Stack Projets**
 
 - Portfolio [https://akashkumawat.vercel.app/](https://akashkumawat.vercel.app/)
-
-- 💬 Ask me about **Nextjs, Reactjs, Nodejs, PostgreSQL, Docker etc..**
 
 - 📫 How to reach me **kumawatap63@gmail.com**
 
