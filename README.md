@@ -1,9 +1,10 @@
 # Hey 👋, I'm [Akash Kumawat!](https://github.com/Akash1000x/Akash1000x/)
 <div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/akash_kumawattt/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/akashkumawatt)
+ 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://akashkumawat.vercel.app/)
+<a href="https://x.com/akashkumawatt" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/akash-kumar-kumawat)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/akash_kumawattt/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumawatap63@gmail.com)
 
 </div>
@@ -14,8 +15,6 @@
 - 🌱 I’m currently learning **Blockchain Technology**
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
-
--  [Portfolio](https://akashkumawat.vercel.app/)
 
 - 📫 How to reach me **kumawatap63@gmail.com**
 
