@@ -1,4 +1,4 @@
-# Hey 👋, I'm [Akash Kumawat!](https://github.com/Akash1000x/Akash1000x/)
+# Hey 👋, I'm [Akash Kumawat!](https://github.com/Akash1000x/)
 <div align="center">
  
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://akashkumawat.vercel.app/)
