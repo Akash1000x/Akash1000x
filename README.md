@@ -10,14 +10,11 @@
 </div>
 
 ## A passionate Full-Stack Developer from India
-<br>
 
-- 🌱 I’m currently learning **Blockchain Technology**
 
-- 👯 I’m looking to collaborate on **Full-Stack Projects**
+- 🌱 Current focus: Gen AI 🤖(Agents, MCP...⛏)
 
 - 📫 How to reach me **kumawatap63@gmail.com**
-
 # [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Akash1000x)](https://github.com/Akash1000x)
 
 ## 💻 Tech Stack:
